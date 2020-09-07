@@ -4,7 +4,7 @@ This repository contains the implementation for competitive self-play with Googl
 
 
 
-![Image of game]()
+![Image of game](https://github.com/shehrum/GRF-Self-Play/blob/master/images/game.png)
 
 ### Getting Started
 
