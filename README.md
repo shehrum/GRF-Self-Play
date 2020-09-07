@@ -4,8 +4,9 @@ This repository contains the implementation for competitive self-play with Googl
 
 
 
-![Image of game](https://github.com/shehrum/GRF-Self-Play/blob/master/images/game.png)
-
+<p align="center">
+<img src="https://github.com/shehrum/GRF-Self-Play/blob/master/images/game.png" alt="game" width="600" height="400">
+</p>
 ### Getting Started
 
 Follow the installation instructions for [Google Research Football environment](https://github.com/google-research/football). After the environment is installed, clone this repository inside the the football environment folder.  
