@@ -1,4 +1,4 @@
-# GRF-Self-Play
+# Google Research Football - Training with competitive Self-Play
 
 This repository contains the implementation for competitive self-play with Google Research Football. Proximal Policy Optimisation is used to train the agent in a 11vs11 game using competitive self-play. 
 
